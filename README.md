@@ -6,6 +6,6 @@
 
 
 >#### **Question that can analysed from this data set**
-> 1. Prob of purchase regardless of the page, of control group, and of treatment group
+> 1. Probability of purchase regardless of the page, of control group, and of treatment group
 > 2. If i want to assume that the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%, What are my null and alternative hypotheses should be?
 > 3. Get P-value to make a decission accept/reject null hypothesis
